@@ -188,10 +188,10 @@ PM_START_TEXT = """
 
 A Multi-featured Chat Management Bot
 ❍ Server Uptime : `{}`
-❍ Version : 3.7.1
+❍ Version : 3.6.5
 ❍ `{}` users, across `{}` chats.
 
-Welcome user `{}` type /help to get list of my commands
+Welcome user *{}* type /help to get list of my commands
 """
 
 HELP_STRINGS = """
