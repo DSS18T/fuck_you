@@ -184,16 +184,16 @@ else:
             "Your blacklisted chats list does not contain valid integers.")
             
 PM_START_TEXT = """
-———— 「 *{}* 」 ————
+———— 「 *`{}`* 」 ————
 
-A Multi-featured Chat Management Bot
-❍ Server Uptime : `{}`
-❍ Version : 3.6.5
-❍ `{}` users, across `{}` chats.
+*A Multi-featured Chat Management Bot*
+❍ *Server Uptime :* `{}`
+❍ *Version :* 3.6.5
+❍ `{}` *Users,* *Across* `{}` *Chats.*
 
-Welcome user *{}* type /help to get list of my commands
+*Welcome user *{}* type /help to get list of my commands!*
 """
 
 HELP_STRINGS = """
-⤀ Click on the button bellow to get description about specifics command. ⬴
-If You Face Any Problems Please Report It To Our Support Group: @GokuSupportChat."""
+*⤀ Click on the button bellow to get description about specifics command. ⬴
+If You Face Any Problems Please Report It To Our Support Group: @GokuSupportChat.*"""
