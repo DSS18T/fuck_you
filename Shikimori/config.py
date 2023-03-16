@@ -77,7 +77,7 @@ class Config(object):
     BOT_ID = 6238073857
     STATS_IMG = "awoo"
     NETWORK_USERNAME = "Anikatsu"
-    NETWORK = "Anikatsu»Network«"
+    NETWORK = " Anikatsu™ »Network«"
     INLINE_IMG = "https://graph.org/file/07b29b626c4e1615e091d.jpg"
     API_WEATHER = "awoo"
     OWNER_WELCOME_MEDIA = ""
