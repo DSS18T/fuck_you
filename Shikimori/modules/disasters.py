@@ -582,15 +582,15 @@ Commands listed here only work for users with special access are mainly used for
 Group admins/group owners do not need these commands. 
 
 *List all special users:*
- ❍ `/dragons`*:* Lists all Dragon disasters
- ❍ `/demons`*:* Lists all Demon disasters
- ❍ `/tigers`*:* Lists all Tigers disasters
- ❍ `/wolves`*:* Lists all Wolf disasters
- ❍ `/devs`*:* Lists all Dev members
- ❍ `/adddragon`*:* Adds a user to Dragon
- ❍ `/adddemon`*:* Adds a user to Demon
- ❍ `/addtiger`*:* Adds a user to Tiger
- ❍ `/addwolf`*:* Adds a user to Wolf
+ ❍ `/attendant`*:* Lists all Dragon disasters
+ ❍ `/god`*:* Lists all Demon disasters
+ ❍ `/saiyan`*:* Lists all Tigers disasters
+ ❍ `/human`*:* Lists all Wolf disasters
+ ❍ `/grand`*:* Lists all Dev members
+ ❍ `/addattend`*:* Adds a user to Dragon
+ ❍ `/addgod`*:* Adds a user to Demon
+ ❍ `/addsaiyan`*:* Adds a user to Tiger
+ ❍ `/addhuman`*:* Adds a user to Wolf
  ❍ `Add dev doesnt exist, devs should know how to add themselves. AKA, why are you even dev if you don't have access to the bot vars.`
 
 *Ping:*
