@@ -15,8 +15,8 @@ if ENV:
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME", None)
 
     try:
-        DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "").split())
-        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "").split())
+        DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "5738517849").split())
+        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "1938491135").split())
     except ValueError:
         raise Exception("Your sudo or dev users list does not contain valid integers.")
 
