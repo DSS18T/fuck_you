@@ -76,9 +76,9 @@ class Config(object):
     ALIVE_MEDIA = "https://graph.org/file/b43e15a3ac74c59ef4cb4.jpg"
     BOT_ID = 6238073857
     STATS_IMG = "awoo"
-    NETWORK_USERNAME = "VoidxNetwork"
-    NETWORK = "【V๏ɪ፝֟𝔡】»Network«"
-    INLINE_IMG = "https://telegra.ph/file/8cec66d01df8c0071ebaa.jpg"
+    NETWORK_USERNAME = "Anikatsu"
+    NETWORK = "Anikatsu»Network«"
+    INLINE_IMG = "https://graph.org/file/07b29b626c4e1615e091d.jpg"
     API_WEATHER = "awoo"
     OWNER_WELCOME_MEDIA = ""
 
