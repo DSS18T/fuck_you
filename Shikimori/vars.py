@@ -195,4 +195,5 @@ Welcome user *{}* type /help to get list of my commands
 """
 
 HELP_STRINGS = """
-𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗 𝚋𝚎𝚕𝚕𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚍𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍."""
+⤀ Click on the button bellow to get description about specifics command. ⬴
+If You Face Any Problems Please Report It To Our Support Group: @GokuSupportChat."""
