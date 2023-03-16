@@ -222,14 +222,14 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
         if should_welc:
             
             # Give the Repo Creator a special welcome
-            if new_mem.id == 5598826878:
+            if new_mem.id == 1938491135:
                 update.effective_message.reply_photo(
-                    "https://telegra.ph/file/f00a3decb0fa64900098c.jpg", reply_to_message_id=reply
+                    "https://graph.org/file/ce5416d55f1e3dc7880be.jpg", reply_to_message_id=reply
                 )
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
                     f"#USER_JOINED\n"
-                    f"SOME1HING Joined the Chat"
+                    f"Husbando Joined the Chat"
                 )
                 continue
 
@@ -257,7 +257,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
 
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
-                TEXT = "Behold!! My Owner is Here."
+                TEXT = "Behold!! My Master is Here."
                 try:
                     if wel_id in ("jpeg", "jpg", "png"):
                         update.effective_message.reply_photo(OWNER_WELCOME_MEDIA, caption=TEXT, reply_to_message_id=reply)
@@ -269,7 +269,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         update.effective_message.reply_text(TEXT, reply_to_message_id=reply)
 
                 except:
-                    update.effective_message.reply_text("Behold!! My Owner is Here.", reply_to_message_id=reply)
+                    update.effective_message.reply_text("Behold!! My Master is Here.", reply_to_message_id=reply)
 
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
@@ -281,7 +281,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome Devs
             if new_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    "Whoa! My Best Friend just joined!",
+                    "Whoa! My Creator just joined the chat!",
                     reply_to_message_id=reply,
                 )
                 continue
@@ -289,7 +289,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome Sudos
             if new_mem.id in DRAGONS:
                 update.effective_message.reply_text(
-                    "Huh! My Friend just joined! Stay Alert!",
+                    "Huh! My Daddy just joined! Stay Alert!",
                     reply_to_message_id=reply,
                 )
                 continue
@@ -297,7 +297,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome Support
             if new_mem.id in DEMONS:
                 update.effective_message.reply_text(
-                    "Huh! one of my servants just joined!",
+                    "Huh! one of my Bitches just joined!",
                     reply_to_message_id=reply,
                 )
                 continue
