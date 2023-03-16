@@ -18,9 +18,9 @@ class Config(object):
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "awoo"
     BOT_TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1606221784  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 1448400310  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "SOME1HING"
-    SUPPORT_CHAT = "tyranteyeeee"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "gokuSupportChat"  # Your own group for support, do not add the @
     LOG_CHANNEL = (
         -1001150905176
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
@@ -69,12 +69,12 @@ class Config(object):
     ARQ_API = "awoo"
     APOD_API_KEY = "awoo"
     REDIS_URL = "awoo"
-    ANIME_NAME = "Shikimori's Not Just a Cutie"
-    START_MEDIA = "https://telegra.ph/file/9235d57807362b4e227a3.mp4"
-    BOT_USERNAME = "micchon_shikimori_bot"
-    UPDATE_CHANNEL = "Shikimori_bot_Updates"
-    ALIVE_MEDIA = "https://telegra.ph/file/2b04f7812f22b983f8a10.mp4"
-    BOT_ID = 5169508699
+    ANIME_NAME = "Dragon Ball"
+    START_MEDIA = "https://graph.org/file/07b29b626c4e1615e091d.jpg"
+    BOT_USERNAME = "ultraGokuXRobot"
+    UPDATE_CHANNEL = "gokuUpadtes"
+    ALIVE_MEDIA = "https://graph.org/file/b43e15a3ac74c59ef4cb4.jpg"
+    BOT_ID = 6238073857
     STATS_IMG = "awoo"
     NETWORK_USERNAME = "VoidxNetwork"
     NETWORK = "【V๏ɪ፝֟𝔡】»Network«"
