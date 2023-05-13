@@ -1,6 +1,6 @@
 import requests
 
-from Shikimori import pbot as app,
+from Shikimori import pbot as app
 from Shikimori.vars import TOKEN
 
 from pyrogram import filters
