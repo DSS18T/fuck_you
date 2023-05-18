@@ -139,7 +139,7 @@ async def _reverse(_,msg):
 
     
 
-    await text.edit(f'[{result["output"]}]({result["similar"]})\n\n⇢**by** - @VegetaRobot',reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Source Link",url=result["similar"])]]))
+    await text.edit(f'[{result["output"]}]({result["similar"]})\n\n⇢**by** - @Mitsuri_X_bot',reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Source Link",url=result["similar"])]]))
 
    
 
